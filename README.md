@@ -2,4 +2,5 @@ My Project
 Master
 
 Next
-Test Feature 
+Test Feature\n
+Test2 Feature\n
