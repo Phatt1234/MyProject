@@ -2,5 +2,6 @@ My Project
 Master
 
 Next
-Test Feature\n
-Test2 Feature\n
+Test Feature
+Test2 Feature
+Get Feature published.
